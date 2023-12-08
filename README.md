@@ -1,4 +1,4 @@
-### Password Manager App - Getting Started Guide
+# Password Manager App - Getting Started Guide
 
 Hey there! Ready to get started with the Password Manager App? Follow these simple steps:
 
